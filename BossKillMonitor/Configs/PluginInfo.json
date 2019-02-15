@@ -1,0 +1,6 @@
+{
+  "FullName":"BossKillMonitor",
+  "Description":"Monitors boss kills",
+  "Version":1.0,
+  "MinApiVersion":2.9
+}
